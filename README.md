@@ -1,5 +1,5 @@
 # Context
-I used ChatGPT to write this script becauae I wanted to merge seperated audiobook chapters into one large file. I blame Pocket Cast for not allowing their users to make folders per audiobook when uploaded with the Pocket Cast Plus cloud service. For the Pocket Cast Plus limitation, came this python script.
+<ins>I used ChatGPT to write this script becauae I wanted to merge seperated audiobook chapters into one large file. I blame Pocket Cast for not allowing their users to make folders per audiobook when uploaded with the Pocket Cast Plus cloud service. For the Pocket Cast Plus limitation, came this python script.</ins>
 
 This code is used to merge a list of audio files into a single file using the ffmpeg command-line utility. The code begins by allowing the user to select the input audio files using a file selection dialog. It then sets the output file's extension to be the same as the input file's extension.
 
