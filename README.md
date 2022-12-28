@@ -24,7 +24,7 @@ After the ffmpeg command has finished running, the code deletes the input_list.t
 
 # How TO RUN
 - Run program with your favourite python gui/command line
-- Make sure to point where your ffmpeg is installed: ffmpeg_path = "C:/ffmpeg-2022-12-25-git-eeb280f351-full_build/bin/ffmpeg.exe"
+- Make sure to point where your ffmpeg is installed: ```python ffmpeg_path = "C:/ffmpeg-2022-12-25-git-eeb280f351-full_build/bin/ffmpeg.exe" ```
 - Change the output path: output_folder = "C:/Users/USER/Desktop/Output"
 
 # How TO USE
